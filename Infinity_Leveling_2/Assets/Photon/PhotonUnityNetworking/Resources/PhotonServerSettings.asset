@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: e58abb49-b764-4698-a158-f68ab7aac34c
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: asia
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - Rpc_Loading_Room_Rpc
+  - Rpc_Player_Masuk
+  - On_Rpc_Ready
+  - On_Total_Ready
+  - Rpc_MC_Kirim_All_Data_Karena_Player_Baru_Masuk
+  - Rpc_Room_Total_Players
+  - Rpc_On_Refresh_After_Kirim_All_Data
+  - Rpc_b_Cd_Rpc_Masuk
+  - Rpc_Load_Player_Status
+  - Rpc_Send_Room_Options
+  - Rpc_Set_Spawn
+  - On_Rpc_Total_Enemy_Map
+  - On_Rpc_Total_Room_In_Map
+  - On_Rpc_Proccess_Total_Room_In_Map
+  - On_Rpc_Process_Total_Enemy_Map
+  - Rpc_Send_Id_Enemy
+  - Rpc_Send_Damage_Enemy
+  - Rpc_Send_Damage_Player
+  - Rpc_Send_Cur_Flip
+  - On_Rpc_GMP_Masuk_Field
+  - Rpc_Cur_Enemy_Total
+  - Rpc_Send_Character_Animation
+  - On_Rpc_Process_Total_Boss_Enemy_Map
+  - On_Rpc_Process_Total_Mini_Boss_Map
+  - On_Rpc_Total_Boss_Enemy_Map
+  - On_Rpc_Total_Mini_Boss_Map
+  - Rpc_Send_Skill_Animation
+  - On_Rpc_GMP_Masuk_Field_2
+  - On_Rpc_Total_Players_Alive
+  - Rpc_Send_Dead
+  - Hit_Rpc_Send_Skill_Animation
+  - Rpc_On_Mine_Destroy_Skill_Pengaturan_Animasi
+  - On_Rpc_Boss_Enemy_Random_Skill
+  - On_Rpc_Mini_Boss_Random_Skill
+  - Rpc_Refresh_Health
+  - Rpc_Add_Skill_Class_Ability
+  - Rpc_L_Transfer_Skill_Class_Ability_Add_Class_Ability
+  - Rpc_Refresh_Status
+  DisableAutoOpenWizard: 1
+  ShowSettings: 0
+  DevRegionSetOnce: 1

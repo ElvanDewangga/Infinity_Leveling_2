@@ -1,0 +1,5 @@
+Id,Left_Name,Right_Name,Left_Img,Right_Img,Position,Dialog_Text,Event
+0,Male Combat master,,Male_Combat_Master,,L,"My my look who we have here, welcome and feel free to learn skill from us.",
+1,Female Mage master,,Female_Mage_Master,,,"Yes, yes I will teach you my power magic.",
+2,Female Cleric master,,Female_Cleric_Master,,,Oh and I will show you the way of healing and blessing.,
+3,,,Disable_Character,,,,Close_VN

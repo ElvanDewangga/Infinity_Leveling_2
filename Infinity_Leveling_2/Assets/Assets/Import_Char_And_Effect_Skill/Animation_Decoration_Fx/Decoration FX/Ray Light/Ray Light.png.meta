@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: 1ac9717ed7e114825bed00ee2d461583
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ray Light_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c163751e13f4e4de9824f291eba16262
+      internalID: -32733618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ec52f8e4b6447f2ae987ac4864f851
+      internalID: 1772186146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e889c98960e4d4cd38890beedd5b42d9
+      internalID: 760011018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_3
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190574eb262e14c1d81395583719ff8b
+      internalID: 26148053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_4
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc6f99c3719f484d9ffe772a2485ef4
+      internalID: 1757564338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_5
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5404593d29f41ea9fa2df71b7bd994
+      internalID: 1595262824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_6
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7c38a38bea7407984f1274a33cf498
+      internalID: -357439200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_7
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d66ca774dc3f41628bc515770014f65
+      internalID: -1398795444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_8
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b37b7d6d63354a0fa5002a1c033f878
+      internalID: -1696973801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_9
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a29d3e382af44a06b70b133fbf4f183
+      internalID: -1364011496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_10
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f7142a5fc624a2dbf6c059f436f179
+      internalID: -2022128490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_11
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f547376db5f91485893acf577e839adf
+      internalID: 178505687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_12
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d577af894255491095a163ab2f51b2f
+      internalID: 1777273678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_13
+      rect:
+        serializedVersion: 2
+        x: 3874
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2035a4f2df50e4b02bba9b264dbb45a7
+      internalID: 1825498529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_14
+      rect:
+        serializedVersion: 2
+        x: 4172
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7247de2643db0499a97824dc91fb5d54
+      internalID: 1698674140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_15
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b77df7a5ae64a40b03112c3e15c82f
+      internalID: 1607034964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_16
+      rect:
+        serializedVersion: 2
+        x: 4768
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3ab5d0e42654cd9835cf063a84540b
+      internalID: 291752442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_17
+      rect:
+        serializedVersion: 2
+        x: 5066
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5a44de9bbb04f87820538ad80fe918
+      internalID: -140026212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_18
+      rect:
+        serializedVersion: 2
+        x: 5364
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09df86c49285843cca5d534f0020c88a
+      internalID: 361759221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_19
+      rect:
+        serializedVersion: 2
+        x: 5662
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fee45c343c94f22be7755b2124a42b
+      internalID: -1845164079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_20
+      rect:
+        serializedVersion: 2
+        x: 5960
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b88d2fb2aab405280a290d7905322d
+      internalID: -113895410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_21
+      rect:
+        serializedVersion: 2
+        x: 6258
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87182853576b542c29e3d93baef12ac1
+      internalID: 1723398069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_22
+      rect:
+        serializedVersion: 2
+        x: 6556
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efc2f28818f948a59fe48712142d8cf
+      internalID: -284455972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_23
+      rect:
+        serializedVersion: 2
+        x: 6854
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fb0c87c55824e97acea44128e22049
+      internalID: 981774005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_24
+      rect:
+        serializedVersion: 2
+        x: 7152
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc8a6321867d4c09a95e6965946f6d8
+      internalID: 1769613428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_25
+      rect:
+        serializedVersion: 2
+        x: 7450
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d5754be9b0e476498a3cbd91b3a2f6
+      internalID: -660855518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_26
+      rect:
+        serializedVersion: 2
+        x: 7748
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581a79b67978641bcb56db647895e2cd
+      internalID: -1399506819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_27
+      rect:
+        serializedVersion: 2
+        x: 8046
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cb2ed1d32354ca4bd422af53a06b71
+      internalID: -677661539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_28
+      rect:
+        serializedVersion: 2
+        x: 8344
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14919e24f8c014ad88a7544be46fdc7b
+      internalID: -1583568668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_29
+      rect:
+        serializedVersion: 2
+        x: 8642
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8365130936a6343e3bb86ddf756511c3
+      internalID: 353314699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_30
+      rect:
+        serializedVersion: 2
+        x: 8940
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffed8a0320434e62b58fb7259ecb935
+      internalID: -2113416658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_31
+      rect:
+        serializedVersion: 2
+        x: 9238
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8003262c0097644eea9867410515257c
+      internalID: -203193602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_32
+      rect:
+        serializedVersion: 2
+        x: 9536
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633e2ec87301e4791a0726573f56ff01
+      internalID: 2089390903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_33
+      rect:
+        serializedVersion: 2
+        x: 9834
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35051717418514493bbab7795bfbf355
+      internalID: -1690449583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_34
+      rect:
+        serializedVersion: 2
+        x: 10132
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f830f157df045f5a4caef2594b32a5
+      internalID: 1475093984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_35
+      rect:
+        serializedVersion: 2
+        x: 10430
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaad9f75a1a846bda776f6157e04003
+      internalID: 1877901857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_36
+      rect:
+        serializedVersion: 2
+        x: 10728
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df68e0152afd84c3dab382b3a88f5a0b
+      internalID: -1728456736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_37
+      rect:
+        serializedVersion: 2
+        x: 11026
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2beb557a116cf44e1be0ebd43a8a7831
+      internalID: 58179893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_38
+      rect:
+        serializedVersion: 2
+        x: 11324
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea7d370764ca4c7caa580c2f06b0f9a
+      internalID: 1446942128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ray Light_39
+      rect:
+        serializedVersion: 2
+        x: 11622
+        y: 0
+        width: 298.025
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e1cb670aa06444ea32f41981c87c2f
+      internalID: 1685162323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9032099bfac6b4863926f7f21ee745a9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ray Light_25: -660855518
+      Ray Light_15: 1607034964
+      Ray Light_7: -1398795444
+      Ray Light_20: -113895410
+      Ray Light_2: 760011018
+      Ray Light_11: 178505687
+      Ray Light_17: -140026212
+      Ray Light_31: -203193602
+      Ray Light_18: 361759221
+      Ray Light_30: -2113416658
+      Ray Light_39: 1685162323
+      Ray Light_28: -1583568668
+      Ray Light_27: -677661539
+      Ray Light_36: -1728456736
+      Ray Light_23: 981774005
+      Ray Light_26: -1399506819
+      Ray Light_16: 291752442
+      Ray Light_6: -357439200
+      Ray Light_22: -284455972
+      Ray Light_32: 2089390903
+      Ray Light_5: 1595262824
+      Ray Light_10: -2022128490
+      Ray Light_12: 1777273678
+      Ray Light_4: 1757564338
+      Ray Light_37: 58179893
+      Ray Light_34: 1475093984
+      Ray Light_14: 1698674140
+      Ray Light_8: -1696973801
+      Ray Light_35: 1877901857
+      Ray Light_24: 1769613428
+      Ray Light_0: -32733618
+      Ray Light_1: 1772186146
+      Ray Light_21: 1723398069
+      Ray Light_19: -1845164079
+      Ray Light_3: 26148053
+      Ray Light_13: 1825498529
+      Ray Light_38: 1446942128
+      Ray Light_9: -1364011496
+      Ray Light_29: 353314699
+      Ray Light_33: -1690449583
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

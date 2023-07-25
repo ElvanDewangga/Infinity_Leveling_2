@@ -1,0 +1,12 @@
+Skill_Name,Description,Skill_Info,Skill_Category,Gold_Learn,Phase
+Equip_Mace_Items,You can equip mace.,Uses 1 slot on character,Passive,888,1
+Heal,Recover 1 ally target HP by 8% (additional 88% atk and caster's 1% HP) and consume 5% MP,1 sec cd,Active,888,1
+Holy stigma curse,"AOE - Mark enemy targets with holy stigma, DEF - 68% + incoming damage + 30% consuming 5% HP & MP",6 sec cd,Active,888,1
+Blessing mana,Gather mana restore 50% MP and heal 25% of allies HP (healing gain bonus from 88% atk and caster's 1% HP & 8% MP) & consumes 25% HP,6 sec cd,Active,888,1
+Harden_body,Make oneself invincible to damage for 5 seconds consuming 5% HP & MP,7 sec cd,Active,888,1
+Inspire_mana,Transfer 90% of MP to a designated ally consuming 1% HP & 90% MP,6 sec cd,Active,888,1
+Party_heal,Recover all allies target HP by 8% (additional 88% atk and caster's 1% HP) and consume 1% HP & 30% MP,4 sec cd,Active,888,1
+Retribution_force,Use 50% of HP & MP (108% atk bonus) to strike 1 target consume 50% HP & MP,8 sec cd,Active,888,1
+Equip_Shield_Items,Able to equip Shield (Offhand),Use 1 slot ,Passive,888,1
+Equip_Orb_Items,Able to equip orb (Offhand),Use 1 slot ,Passive,888,1
+Status_Boost,Boost all status by points 15%,None,Passive,888,1

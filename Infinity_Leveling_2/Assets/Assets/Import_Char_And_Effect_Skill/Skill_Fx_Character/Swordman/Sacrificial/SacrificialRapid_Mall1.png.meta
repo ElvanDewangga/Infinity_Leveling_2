@@ -1,0 +1,773 @@
+fileFormatVersion: 2
+guid: 05647e79bcbfd45a99dd635b96f6294e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c92f92079ebe42f29bb52fcc8ed83a6
+      internalID: -1512163184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd756db6a5404ce2b78cf17bbcd7e84
+      internalID: 627089649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846769edada114bbcacc313a99189b74
+      internalID: 1223436471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3525fb89fb30745c3b0ba188fc369a43
+      internalID: 1975669584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_4
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68b90d6f65c44a80b5d8d0e67f118f0
+      internalID: -469989882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_5
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90005cf3618544de383c53f1ac736e09
+      internalID: -1201069698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_6
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc583556edd5c4acabde3b5bc12b73c4
+      internalID: 323485857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_7
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df6ccb322b5d49718577b0e3d074c5b
+      internalID: -2061950534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_8
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b50d81dba36841498839e8fb411d69b
+      internalID: -850061431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_9
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375ae0d5c136c4364b31da95e1ec7caa
+      internalID: 980131361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_10
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824f13a05e8154522aa6d50711f42b97
+      internalID: -941121858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_11
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9b4a076c73e4c75afe3b6814aaed26
+      internalID: -1826496187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_12
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f559df6ddd8b476786012fc99215fbb
+      internalID: -1849208286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_13
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0ff6e57611e4d5ba4f31d498ea20ad
+      internalID: 1339741679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_14
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e251c59b45d41dfb363bb6b6bb329c
+      internalID: -197509411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_15
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5363811037b476aa1411160f29a1d3
+      internalID: -1184305779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_16
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e107f665e4bbe41e499a3eb6c24770ae
+      internalID: 1292107168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_17
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943e876234fda4145ae1fa656200c2fd
+      internalID: -1427771335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_18
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d662d173b678f4b498f4d569dd9f8702
+      internalID: -1794686070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_19
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1242a631ea9b94cbd8dcde814827a17a
+      internalID: -1834884826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_20
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522289da02b32475fb00c945b424d68d
+      internalID: 1648660097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_21
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4404af99b8e24593b66ad0ec25d4638
+      internalID: -779744827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_22
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbd86a39b7f94598856e2d251b72bf2
+      internalID: 820740087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_23
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff17577602274c628a3de580188c98f
+      internalID: 1850498242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_24
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef22090007234dccbaacb55e8e8d6be
+      internalID: -1734004857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_25
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54db8ceaf377849d095f4a573278e2aa
+      internalID: -467832035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_26
+      rect:
+        serializedVersion: 2
+        x: 3692
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df46b01f4c5614437a91d125c400d632
+      internalID: -1250433782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_27
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bd8584d5f1645eaaa496348287f03e
+      internalID: 276553076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificialRapid_Mall1_28
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 1
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc691eacf4e74ef4a7baf74ad726b91
+      internalID: 144466271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 18eb7fd4abe1b44afa859f78418c6006
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SacrificialRapid_Mall1_2: 1223436471
+      SacrificialRapid_Mall1_0: -1512163184
+      SacrificialRapid_Mall1_25: -467832035
+      SacrificialRapid_Mall1_10: -941121858
+      SacrificialRapid_Mall1_21: -779744827
+      SacrificialRapid_Mall1_11: -1826496187
+      SacrificialRapid_Mall1_13: 1339741679
+      SacrificialRapid_Mall1_26: -1250433782
+      SacrificialRapid_Mall1_16: 1292107168
+      SacrificialRapid_Mall1_18: -1794686070
+      SacrificialRapid_Mall1_3: 1975669584
+      SacrificialRapid_Mall1_17: -1427771335
+      SacrificialRapid_Mall1_19: -1834884826
+      SacrificialRapid_Mall1_6: 323485857
+      SacrificialRapid_Mall1_12: -1849208286
+      SacrificialRapid_Mall1_27: 276553076
+      SacrificialRapid_Mall1_5: -1201069698
+      SacrificialRapid_Mall1_14: -197509411
+      SacrificialRapid_Mall1_22: 820740087
+      SacrificialRapid_Mall1_7: -2061950534
+      SacrificialRapid_Mall1_28: 144466271
+      SacrificialRapid_Mall1_1: 627089649
+      SacrificialRapid_Mall1_15: -1184305779
+      SacrificialRapid_Mall1_9: 980131361
+      SacrificialRapid_Mall1_23: 1850498242
+      SacrificialRapid_Mall1_20: 1648660097
+      SacrificialRapid_Mall1_24: -1734004857
+      SacrificialRapid_Mall1_8: -850061431
+      SacrificialRapid_Mall1_4: -469989882
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

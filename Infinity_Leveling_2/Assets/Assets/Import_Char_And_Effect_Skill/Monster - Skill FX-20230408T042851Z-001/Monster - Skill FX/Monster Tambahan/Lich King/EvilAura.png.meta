@@ -1,0 +1,971 @@
+fileFormatVersion: 2
+guid: e92edcd3593ef4c5da5d874ac369d767
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EvilAura_0
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd755372f3964b91be98d804ed457d2
+      internalID: 269503917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_1
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031770b0d76ed49f6b48d46df28b1ae8
+      internalID: 754257852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02492107a07da48398ddbbb1e49d5dfc
+      internalID: -484984863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd371b5de59b4ed5a62af2ccc61a6f5
+      internalID: -118610892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_4
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cb55f74f0b74758861fb8e5544e023
+      internalID: 1646069604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_5
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9264a751172d4da9826277d48dbe921
+      internalID: -899312238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_6
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8973ccba58f5b423ba9c6a0c201e0ccd
+      internalID: 467213960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_7
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e69d51188c240aba0a77f305713ffa
+      internalID: -1751694211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_8
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f3474d5ff84479d9309fd2866be044
+      internalID: 1293129722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_9
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf9d4d96e3914159bd62140b6e95c71
+      internalID: -2043383565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_10
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a2993cf0aab49449f455259fcea428
+      internalID: -528360255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_11
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7abd38df6221467a807d8047d353603
+      internalID: -1826776768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_12
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123604e3c597f4045b1bbc7a2687b681
+      internalID: 2000336266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_13
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866094b74a6ee4198b58e13c3531b239
+      internalID: -751257817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_14
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5ca9077d25a4066a7b71c033a63e52
+      internalID: -1489511284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_15
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f376cadb0cf64c6eb8fca2507b691ac
+      internalID: 99064381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_16
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efaf033fe22948299fcb98f774f7526
+      internalID: 1191941712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_17
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4982b38128bc740dd89eb2108cf1a4f2
+      internalID: 209759151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_18
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02aefebab280e401f90fd6e372167794
+      internalID: -1238317065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_19
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6419191dc8a491eae38fb6234873f7
+      internalID: -1639844074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_20
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933f175ac35f34397946f6f0be9070f6
+      internalID: -1833274495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_21
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f7b7db1aae14cec984a79b834fb267
+      internalID: 763308032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_22
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1374d90bac645198e40d010b656ff4
+      internalID: -1333446099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_23
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b763c1b600e4368bb04ee7d3d1233e
+      internalID: -1633031911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_24
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2596ea943e54b4cb5c4e5254326003
+      internalID: 749075490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_25
+      rect:
+        serializedVersion: 2
+        x: 8100
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f17b28bdfa4f434c934e14a3de6828a
+      internalID: 21990968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_26
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45de083c8abc7443c858b6408dffb57f
+      internalID: -1591358872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_27
+      rect:
+        serializedVersion: 2
+        x: 8700
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1897db6a27f4b9fab6e6ccddff6e24
+      internalID: -146418874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_28
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7a20d412183451dab9b4f9e968430a
+      internalID: 1228493945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_29
+      rect:
+        serializedVersion: 2
+        x: 9300
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfa575a951a84863a14246c0f7093c2
+      internalID: -1150860553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_30
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd16d477b63e4ec892387c6027d3fe6
+      internalID: -1415611605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_31
+      rect:
+        serializedVersion: 2
+        x: 9900
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dac85b0c160c48788aa70e53485f46c
+      internalID: -282289283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_32
+      rect:
+        serializedVersion: 2
+        x: 10200
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a9085c395754e5d87da504a6b013d5
+      internalID: -852982578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_33
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d9b669923fe47aa820b1167a81b862
+      internalID: -1365194975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_34
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8545f9ffdc3d041f4a71d44344ae9114
+      internalID: -1527134507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_35
+      rect:
+        serializedVersion: 2
+        x: 11100
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2fb6ba3ada6497ca8c0f62284f30b7
+      internalID: -1635905164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_36
+      rect:
+        serializedVersion: 2
+        x: 11400
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d26b43863fb4dfb9795b707c8f2207
+      internalID: -2012669193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EvilAura_37
+      rect:
+        serializedVersion: 2
+        x: 11700
+        y: 2
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6149182ce83874254b62f26d0fbbadf6
+      internalID: 1497969764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b8c3bcca6ba54435b8cd5080eace1be7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EvilAura_13: -751257817
+      EvilAura_14: -1489511284
+      EvilAura_16: 1191941712
+      EvilAura_10: -528360255
+      EvilAura_7: -1751694211
+      EvilAura_1: 754257852
+      EvilAura_12: 2000336266
+      EvilAura_6: 467213960
+      EvilAura_27: -146418874
+      EvilAura_22: -1333446099
+      EvilAura_25: 21990968
+      EvilAura_28: 1228493945
+      EvilAura_32: -852982578
+      EvilAura_34: -1527134507
+      EvilAura_15: 99064381
+      EvilAura_36: -2012669193
+      EvilAura_33: -1365194975
+      EvilAura_11: -1826776768
+      EvilAura_26: -1591358872
+      EvilAura_19: -1639844074
+      EvilAura_0: 269503917
+      EvilAura_35: -1635905164
+      EvilAura_23: -1633031911
+      EvilAura_3: -118610892
+      EvilAura_9: -2043383565
+      EvilAura_4: 1646069604
+      EvilAura_37: 1497969764
+      EvilAura_31: -282289283
+      EvilAura_21: 763308032
+      EvilAura_29: -1150860553
+      EvilAura_18: -1238317065
+      EvilAura_8: 1293129722
+      EvilAura_24: 749075490
+      EvilAura_20: -1833274495
+      EvilAura_17: 209759151
+      EvilAura_5: -899312238
+      EvilAura_30: -1415611605
+      EvilAura_2: -484984863
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,905 @@
+fileFormatVersion: 2
+guid: da75a4c19e3c64fb1a8c333f9f3685aa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HolyStigma_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af33ba4f20144fd08c0b02ca41f107b
+      internalID: -1852280531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e213b7c90ed4d5386648586aa3afc0
+      internalID: -849035832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b11c2164f6141e48196884eddc653d
+      internalID: 1589574622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9985bebc342f842a4a3acb3f3d2dea6e
+      internalID: 1723287345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854ba6098ddbe420faa360f51da70b5f
+      internalID: -1120044526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ddfc92cee144e278fc1e3aaecd5755
+      internalID: 826369449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3f2d2aaa4db49978ad2f37388d1dd9
+      internalID: 273216021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d70805513c5f425489a65b76f2cf8e2
+      internalID: -2096686581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c51ad8b0fa70434a8e5575f61f1f1b4
+      internalID: 786303708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_9
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc7ce36fac5c4e97883f99389f17ef4
+      internalID: 182220860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_10
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba042cf84365345739d61d6fc134a36e
+      internalID: -1504947776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_11
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c95fb15435d45ffa0e03e1da1cc6f2
+      internalID: -2086596066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_12
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42d1fa06be5c48d38995e09f891b76e
+      internalID: -1462552095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_13
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bff7a654f4e4903a424be95459f653
+      internalID: -1065106382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_14
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e076ae440d114cb09865cd5ee92fa40
+      internalID: 477624420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_15
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2604e29a875440949f5e1a31ea1c1cb
+      internalID: 1968824643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_16
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae15c4b5114a48329fa7a723edfbdc6
+      internalID: 1680355626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_17
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d170575b462fb40bea2fd53fd518f052
+      internalID: -1392842186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_18
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b3b77eebbcd43c8affd75b5596898b
+      internalID: -1099500824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_19
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5bcd0d47255478abeac79706f6323d
+      internalID: 341288160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_20
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febed65efceef49639a7cba3725335d8
+      internalID: 1072953220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_21
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bb79c7b340a4b7daf7fa28c0acb964
+      internalID: 1596517899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_22
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90b97a847dd54224b0b2f8f6da3c8c6
+      internalID: -1058007222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_23
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a3359e606294718927d271963dfc57
+      internalID: 134180163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_24
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92a05dd88d754f7286c07142bc31a58
+      internalID: -167586206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_25
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53562810378fe4bf0a72ae034139d28e
+      internalID: 1422540454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_26
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039b40f38219e48c888f679a1e8b0af7
+      internalID: 1544284881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_27
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d832da1f94b04ae687eb20ee050caed
+      internalID: 257059938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_28
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cc7bcd126674c5caeb05e45abb015c
+      internalID: 794079936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_29
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39074fb8145754aabbbf22163da1c774
+      internalID: 560332690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_30
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a780aefe511c4305a71800c03b07a0d
+      internalID: 482456653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_31
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2168291d65c4e5c8748cc7aff6987c
+      internalID: 76292348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_32
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d91b2f5c4c34f8a98e4797fab02be4
+      internalID: -705123035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_33
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6334a871592a4299beffd93cb8546db
+      internalID: -1348921850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyStigma_1_34
+      rect:
+        serializedVersion: 2
+        x: 6528
+        y: 2
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f4aa9c780ff489487c03a58dd14ec8
+      internalID: -461593330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 035af17e0fe134c5292a5dd8b92d797b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HolyStigma_1_33: -1348921850
+      HolyStigma_1_2: 1589574622
+      HolyStigma_1_22: -1058007222
+      HolyStigma_1_9: 182220860
+      HolyStigma_1_32: -705123035
+      HolyStigma_1_17: -1392842186
+      HolyStigma_1_3: 1723287345
+      HolyStigma_1_16: 1680355626
+      HolyStigma_1_14: 477624420
+      HolyStigma_1_21: 1596517899
+      HolyStigma_1_29: 560332690
+      HolyStigma_1_7: -2096686581
+      HolyStigma_1_15: 1968824643
+      HolyStigma_1_28: 794079936
+      HolyStigma_1_18: -1099500824
+      HolyStigma_1_26: 1544284881
+      HolyStigma_1_4: -1120044526
+      HolyStigma_1_1: -849035832
+      HolyStigma_1_10: -1504947776
+      HolyStigma_1_12: -1462552095
+      HolyStigma_1_23: 134180163
+      HolyStigma_1_19: 341288160
+      HolyStigma_1_13: -1065106382
+      HolyStigma_1_31: 76292348
+      HolyStigma_1_6: 273216021
+      HolyStigma_1_25: 1422540454
+      HolyStigma_1_20: 1072953220
+      HolyStigma_1_24: -167586206
+      HolyStigma_1_30: 482456653
+      HolyStigma_1_34: -461593330
+      HolyStigma_1_0: -1852280531
+      HolyStigma_1_8: 786303708
+      HolyStigma_1_11: -2086596066
+      HolyStigma_1_27: 257059938
+      HolyStigma_1_5: 826369449
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

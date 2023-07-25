@@ -1,0 +1,12 @@
+Skill_Name,Description,Skill_Info,Skill_Category,Gold_Learn,Phase
+Equip_staff_items,You can equip staff.,Uses 2 slot on character,Passive,888,1
+Fireball,Cast fireball that deal 100% atk + 10% HP + 40% MP and consuming 35% MP & 10% HP,tap 2 x and 6 sec cd,Active,888,1
+Evocation_of_mana,Exchange 80% of HP for 100% of MP,6 sec cd,Active,888,1
+Entangling_root,AOE stop enemies but they are able to cast skills or consume items & consume 10% MP,8 sec cd,Active,888,1
+Blizzard_spike,AOE damage of 90% atk + 30% MP + 15% HP and consuming 20% MP & 18% HP per second,Hold to do continuous max 5 sec with 8 sec cd,Active,888,1
+Magic_armor,Increase DEF by 25% for yourself and allies nearby consuming 10% MP,10 sec cd - duration 10 min,Active,888,1
+Mana_blast,Blast 1 target to inflict 300% atk + 110% current available MP consuming all MP & 18% HP,10 sec cd,Active,888,1
+Meteor_rain,AOE dealing multiple enemies 280% atk + 65% MP and consuming 55% MP & 20% HP,10 sec cd,Active,888,1
+Equip_Wand_Items,You can equip wand.,Uses 1 slot on character,Passive,888,1
+Equip_Book_Items,You can equip Books. (Offhand),Uses 1 slot on character,Passive,888,1
+Mana_Boost,Boost 20% Mp,None,Passive,888,1

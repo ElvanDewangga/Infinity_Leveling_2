@@ -1,0 +1,11 @@
+Skill_Name,Description,Skill_Info,Skill_Category,Gold_Learn,Phase
+Equip_one_hand_sword_items,you can use one handed sword.,1 slot,Passive,888,1
+Whirlwind,Moving spinning attack dealing 100% atk + 25% HP + 10% MP and consuming 20% HP & 8% MP per second - max for 5 sec,Hold to do continuous max 5 sec with 8 sec cd,Active,888,1
+Cleve,Cleaving slash 190% atk + 55% HP + 15% MP and consuming 45% HP & 10% MP,4 sec cd,Active,888,1
+Leaping_Strike,Forward facing leap and strike downwards 175% atk + 40% HP + 10% MP and consuming 30% HP & 8% MP,8 sec cd,Active,888,1
+Roar_Of_Vengeance,Roar and provide aura for allies nearby giving ATK + 25% & Critical rate & damage + 15%,10 min cd - duration 10 min,Active,888,1
+Flash_Slash,Slash 2 combos 220% atk + 55% HP + 15% MP and consuming 40% HP & 10% MP,tap 2 x and 8 sec cd,Active,888,1
+Sacrificial_Rapid_Slashes,Instant multiple slashes 250% atk + 90% HP + 15% MP and consuming 80% HP & 15% MP,8 sec cd,Active,888,1
+Sword_Aura_Strike,Range of 3 units slash wave through enemies dealing 200% ATK + 75% HP + 20% MP and consuming 70% HP & 20% MP,8 sec cd,Active,888,1
+Equip_Two_Hand_Sword_Items,Able can equip 2 handed sword,2 slot,Passive,888,1
+Hp_Boost,Boost HP 20%,None,Passive,888,1
